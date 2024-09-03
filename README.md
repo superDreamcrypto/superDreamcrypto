@@ -56,11 +56,11 @@
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a>
  
- <a href="https://github.com/superDreamcrypto">
+ <!-- <a href="https://github.com/superDreamcrypto">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
    </a>
  【﻿Ｓｋｉｌｌｓ】  
-</h3>
+</h3> -->
 
 <a href="https://github.com/superDreamcrypto">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
