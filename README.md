@@ -162,7 +162,7 @@
 
 <p align="center">
 <a href="https://github.com/superDreamcryto">
-   <img alt="github-snake" src="https://raw.githubusercontent.com/superDreamcryto/superDreamcryto/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
+   <img alt="github-snake" src="https://raw.githubusercontent.com/walidbosso/walidbosso/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
 </a>
 </p>
 
