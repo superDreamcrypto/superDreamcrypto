@@ -158,6 +158,14 @@
 
 <a href="https://youtube.com/shorts/HWNQxME4r5E?feature=share">
 
+<!--SNAKE-->
+
+<p align="center">
+<a href="https://github.com/superDreamcryto">
+   <img alt="github-snake" src="https://raw.githubusercontent.com/superDreamcryto/superDreamcryto/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
+</a>
+</p>
+
 <!--  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsuperDreamcrypto%2Fhit-counter&count_bg=%6EB9F2&title_bg=%01102D&icon=workplace.svg&icon_color=%41C350&title=Profile+Views&edge_flat=true" width="">
  <img align="center" src="https://img.shields.io/badge/%20%20Press%20to%20watch%20my%202023-%20Github%20unwrapped%20-41c350.svg?logo=github&logoColor=41c350&labelColor=01102d&color=6eb9f2&style=for-the-badge" width="">     -->
 
