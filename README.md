@@ -1,6 +1,6 @@
-<a href="https://github.com/superDreamcrypto">
+<!-- <a href="https://github.com/superDreamcrypto">
  <img align="center" src="./images/header.png" width="100%">
-</a>
+</a> -->
 <p align="center">
 
  <!--Header-->
@@ -12,7 +12,7 @@
 <p align="center">
  
 <a href="https://github.com/superDreamcrypto"> 
- <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=750&height=80&lines=Ashley+Vines;Master's+Degree+%7C+Computer+Science+Engineering+;Full+Stack+Web3+Developer+%7C+Solidity+%7C+MERN+%7C+Laravel+%7C+Python+%7C+Next+%7C+Rust+%7C+Go; " alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=750&height=80&lines=Ashley+Vines;Master's+Degree+%7C+Computer+Science+Engineering+;Full+Stack+Web3+Developer+%7C+Solidity+%7C+Rust+%7C+NFT+%7C+DeFi+%7C+Next+%7C+Solana+%7C+Go; " alt="Typing SVG" />
 </a>
 
 <br/>
